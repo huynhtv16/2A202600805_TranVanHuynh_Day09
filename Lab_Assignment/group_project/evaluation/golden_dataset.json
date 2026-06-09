@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
+    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+  },
+  {
+    "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
+    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+  },
+  {
+    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
+    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
+    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+  },
+  {
+    "question": "Tội tổ chức sử dụng trái phép chất ma tuý bị xử lý theo điều nào trong Bộ luật Hình sự?",
+    "expected_answer": "Tội tổ chức sử dụng trái phép chất ma tuý bị xử lý theo Điều 255 của Bộ luật Hình sự.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 255"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP quy định xử phạt hành chính về sử dụng trái phép chất ma tuý như thế nào?",
+    "expected_answer": "Nghị định 105/2021/NĐ-CP quy định các biện pháp xử phạt hành chính từ cảnh cáo, phạt tiền, quản lý tại địa phương đến tịch thu tang vật đối với hành vi vi phạm pháp luật về ma tuý.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP"
+  },
+  {
+    "question": "Trong Luật Phòng chống ma tuý 2021, ai có trách nhiệm tổ chức cai nghiện bắt buộc?",
+    "expected_answer": "Cơ quan nhà nước có thẩm quyền tổ chức cai nghiện bắt buộc tại cơ sở cai nghiện theo quy định của Luật Phòng chống ma tuý 2021.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+  },
+  {
+    "question": "Thông tư liên tịch về danh mục chất ma tuý và tiền chất quy định điều gì?",
+    "expected_answer": "Thông tư liên tịch quy định danh mục các chất ma tuý và tiền chất, phân loại theo nhóm và hướng dẫn công tác quản lý, kiểm soát.",
+    "expected_context": "Thông tư liên tịch về danh mục chất ma tuý và tiền chất"
+  },
+  {
+    "question": "Hình phạt cho tội mua bán trái phép chất ma tuý theo pháp luật Việt Nam là gì?",
+    "expected_answer": "Hình phạt cho tội mua bán trái phép chất ma tuý có thể từ phạt tù 2 năm trở lên, tùy theo khối lượng và vai trò của người phạm tội.",
+    "expected_context": "Bộ luật Hình sự 2015"
+  },
+  {
+    "question": "Vụ án liên quan ca sĩ Chi Dân và anh trai bị đề nghị truy tố tội gì?",
+    "expected_answer": "Vụ án đề nghị truy tố ca sĩ Chi Dân và anh trai về tội tổ chức sử dụng trái phép chất ma tuý theo khoản 2, Điều 255 Bộ luật Hình sự.",
+    "expected_context": "Đề nghị truy tố ca sĩ Chi Dân cùng anh trai vì tổ chức sử dụng ma túy.md"
+  },
+  {
+    "question": "Bài báo về diễn viên Hữu Tín nêu hình phạt sơ bộ là bao nhiêu năm tù?",
+    "expected_answer": "Bài báo nêu rằng diễn viên Hữu Tín bị đề nghị mức hình phạt 7 năm 6 tháng tù.",
+    "expected_context": "Diễn viên Hữu Tín lãnh 7 năm 6 tháng tù - Tuổi Trẻ Online.md"
+  },
+  {
+    "question": "Thông tin nào được nêu trong bài viết về vụ án An Tây và Chi Dân?",
+    "expected_answer": "Bài viết nêu vụ án liên quan người mẫu An Tây, ca sĩ Chi Dân và 'cô tiên' Trúc Phương bị truy tố về tổ chức và sử dụng trái phép chất ma tuý.",
+    "expected_context": "Chuyên án bí số VN10_ Truy tố người mẫu An Tây, ca sĩ Chi Dân, 'cô tiên' Trúc Phương.md"
+  },
+  {
+    "question": "Luật Phòng chống ma tuý quy định xử lý hành chính đối với người sử dụng ma tuý lần đầu như thế nào?",
+    "expected_answer": "Luật Phòng chống ma tuý và nghị định hướng dẫn quy định xử lý hành chính người sử dụng ma tuý lần đầu bằng biện pháp giáo dục tại địa phương hoặc đưa vào cơ sở cai nghiện tự nguyện.",
+    "expected_context": "Luật Phòng chống ma tuý 2021"
+  },
+  {
+    "question": "Trong Thông tư danh mục ma tuý và tiền chất, cần sa được xếp vào nhóm nào?",
+    "expected_answer": "Cần sa được xếp vào nhóm I của danh mục chất ma tuý tuyệt đối cấm sử dụng.",
+    "expected_context": "Thông tư liên tịch về danh mục chất ma tuý và tiền chất"
+  },
+  {
+    "question": "Bộ luật Hình sự quy định mức xử lý cho người tổ chức, môi giới tàng trữ ma tuý ra sao?",
+    "expected_answer": "Người tổ chức, môi giới tàng trữ ma tuý có thể bị xử phạt nặng hơn so với thủ đoạn tàng trữ thông thường, tính theo lượng ma tuý và vai trò trong vụ án.",
+    "expected_context": "Bộ luật Hình sự 2015"
+  },
+  {
+    "question": "Yêu cầu đối với tài liệu trong RAG pipeline khi trả lời có citation là gì?",
+    "expected_answer": "Phải trích dẫn nguồn ngay trong câu trả lời bằng cách đặt tên tài liệu hoặc nguồn tin cụ thể và không suy đoán nếu thông tin không có trong ngữ cảnh.",
+    "expected_context": "Task 10 — Generation Có Citation"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "url": "https://example.com/news/ma-tuy-sample",
+  "title": "Ví dụ: Tin tức về ma túy",
+  "author": "Tác giả thử",
+  "published_at": "2026-06-08",
+  "content": "Đây là nội dung mẫu cho file JSON metadata, chỉ dùng để test. Nội dung này được kéo dài để đảm bảo kích thước file vượt quá ngưỡng kiểm tra của bộ test. Mục đích là cung cấp một ví dụ đầy đủ cho phần kiểm tra nội dung bài báo trong thư mục landing/news. Đoạn văn bản này không mang ý nghĩa hành chính hoặc pháp lý, nó chỉ là dữ liệu giả để kiểm tra tự động. Tiếp tục thêm văn bản mẫu để đảm bảo rằng tổng số byte của file lớn hơn 500, tránh việc test báo file quá nhỏ. Kết thúc phần nội dung mẫu. Cảm ơn."
+}
